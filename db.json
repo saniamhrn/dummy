@@ -1,0 +1,51 @@
+[{
+  "nama_umkm": "Thoughtbridge",
+  "date": "28/05/2022",
+  "jumlah_terjual": 52,
+  "revenue": "$4.74"
+}, {
+  "nama_umkm": "Voonyx",
+  "date": "26/12/2021",
+  "jumlah_terjual": 62,
+  "revenue": "$9.06"
+}, {
+  "nama_umkm": "Gevee",
+  "date": "19/04/2022",
+  "jumlah_terjual": 39,
+  "revenue": "$5.47"
+}, {
+  "nama_umkm": "Skimia",
+  "date": "31/03/2022",
+  "jumlah_terjual": 66,
+  "revenue": "$1.51"
+}, {
+  "nama_umkm": "Gabvine",
+  "date": "06/04/2022",
+  "jumlah_terjual": 74,
+  "revenue": "$2.53"
+}, {
+  "nama_umkm": "Dabtype",
+  "date": "26/03/2022",
+  "jumlah_terjual": 85,
+  "revenue": "$7.94"
+}, {
+  "nama_umkm": "Photospace",
+  "date": "02/02/2022",
+  "jumlah_terjual": 48,
+  "revenue": "$8.26"
+}, {
+  "nama_umkm": "Topicware",
+  "date": "11/04/2022",
+  "jumlah_terjual": 43,
+  "revenue": "$9.93"
+}, {
+  "nama_umkm": "Oodoo",
+  "date": "12/03/2022",
+  "jumlah_terjual": 19,
+  "revenue": "$4.72"
+}, {
+  "nama_umkm": "Yodel",
+  "date": "21/06/2022",
+  "jumlah_terjual": 18,
+  "revenue": "$9.04"
+}]
